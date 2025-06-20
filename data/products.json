@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Charger Model-554",
+    "price": 57.63,
+    "image": "https://placehold.co/300x300?text=Wireless+Charger"
+  },
+  {
+    "id": 2,
+    "name": "Bluetooth Speaker Model-766",
+    "price": 65.19,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 3,
+    "name": "Monitor 27\" Model-520",
+    "price": 256.02,
+    "image": "https://placehold.co/300x300?text=Monitor+27\""
+  },
+  {
+    "id": 4,
+    "name": "Smart Doorbell Model-449",
+    "price": 147.31,
+    "image": "https://placehold.co/300x300?text=Smart+Doorbell"
+  },
+  {
+    "id": 5,
+    "name": "Bluetooth Speaker Model-450",
+    "price": 86.66,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 6,
+    "name": "Laptop Stand Model-637",
+    "price": 45.51,
+    "image": "https://placehold.co/300x300?text=Laptop+Stand"
+  },
+  {
+    "id": 7,
+    "name": "Smart Doorbell Model-119",
+    "price": 118.36,
+    "image": "https://placehold.co/300x300?text=Smart+Doorbell"
+  },
+  {
+    "id": 8,
+    "name": "Photo Printer Model-907",
+    "price": 165.09,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 9,
+    "name": "Portable Projector Model-641",
+    "price": 339.31,
+    "image": "https://placehold.co/300x300?text=Portable+Projector"
+  },
+  {
+    "id": 10,
+    "name": "Smart Thermostat Model-914",
+    "price": 193.76,
+    "image": "https://placehold.co/300x300?text=Smart+Thermostat"
+  },
+  {
+    "id": 11,
+    "name": "Noise Cancelling Earbuds Model-712",
+    "price": 113.28,
+    "image": "https://placehold.co/300x300?text=Noise+Cancelling+Earbuds"
+  },
+  {
+    "id": 12,
+    "name": "Wireless Charger Model-811",
+    "price": 64.8,
+    "image": "https://placehold.co/300x300?text=Wireless+Charger"
+  },
+  {
+    "id": 13,
+    "name": "Bluetooth Speaker Model-801",
+    "price": 109.05,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 14,
+    "name": "USB-C Hub Model-344",
+    "price": 30.45,
+    "image": "https://placehold.co/300x300?text=USB-C+Hub"
+  },
+  {
+    "id": 15,
+    "name": "Noise Cancelling Earbuds Model-379",
+    "price": 123.03,
+    "image": "https://placehold.co/300x300?text=Noise+Cancelling+Earbuds"
+  },
+  {
+    "id": 16,
+    "name": "Monitor 27\" Model-931",
+    "price": 293.06,
+    "image": "https://placehold.co/300x300?text=Monitor+27\""
+  },
+  {
+    "id": 17,
+    "name": "Action Camera Model-886",
+    "price": 245.41,
+    "image": "https://placehold.co/300x300?text=Action+Camera"
+  },
+  {
+    "id": 18,
+    "name": "Smart Light Bulb Model-975",
+    "price": 21.4,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 19,
+    "name": "Bluetooth Speaker Model-484",
+    "price": 61.55,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 20,
+    "name": "USB-C Hub Model-332",
+    "price": 42.89,
+    "image": "https://placehold.co/300x300?text=USB-C+Hub"
+  },
+  {
+    "id": 21,
+    "name": "Gaming Mouse Model-245",
+    "price": 71.38,
+    "image": "https://placehold.co/300x300?text=Gaming+Mouse"
+  },
+  {
+    "id": 22,
+    "name": "Tablet Model-530",
+    "price": 271.06,
+    "image": "https://placehold.co/300x300?text=Tablet"
+  },
+  {
+    "id": 23,
+    "name": "Portable SSD Model-918",
+    "price": 204.39,
+    "image": "https://placehold.co/300x300?text=Portable+SSD"
+  },
+  {
+    "id": 24,
+    "name": "VR Headset Model-747",
+    "price": 488.2,
+    "image": "https://placehold.co/300x300?text=VR+Headset"
+  },
+  {
+    "id": 25,
+    "name": "Bluetooth Speaker Model-254",
+    "price": 61.27,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 26,
+    "name": "Power Bank Model-818",
+    "price": 15.6,
+    "image": "https://placehold.co/300x300?text=Power+Bank"
+  },
+  {
+    "id": 27,
+    "name": "Action Camera Model-196",
+    "price": 339.93,
+    "image": "https://placehold.co/300x300?text=Action+Camera"
+  },
+  {
+    "id": 28,
+    "name": "Smart Light Bulb Model-363",
+    "price": 17.88,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 29,
+    "name": "Photo Printer Model-872",
+    "price": 147.74,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 30,
+    "name": "Fitness Tracker Model-881",
+    "price": 65.2,
+    "image": "https://placehold.co/300x300?text=Fitness+Tracker"
+  },
+  {
+    "id": 31,
+    "name": "Smart Thermostat Model-784",
+    "price": 185.07,
+    "image": "https://placehold.co/300x300?text=Smart+Thermostat"
+  },
+  {
+    "id": 32,
+    "name": "Laptop Stand Model-897",
+    "price": 27.11,
+    "image": "https://placehold.co/300x300?text=Laptop+Stand"
+  },
+  {
+    "id": 33,
+    "name": "Portable Projector Model-197",
+    "price": 279.77,
+    "image": "https://placehold.co/300x300?text=Portable+Projector"
+  },
+  {
+    "id": 34,
+    "name": "Drone Model-807",
+    "price": 522.56,
+    "image": "https://placehold.co/300x300?text=Drone"
+  },
+  {
+    "id": 35,
+    "name": "Monitor 27\" Model-835",
+    "price": 299.13,
+    "image": "https://placehold.co/300x300?text=Monitor+27\""
+  },
+  {
+    "id": 36,
+    "name": "Gaming Controller Model-760",
+    "price": 88.95,
+    "image": "https://placehold.co/300x300?text=Gaming+Controller"
+  },
+  {
+    "id": 37,
+    "name": "Smart Thermostat Model-793",
+    "price": 242.75,
+    "image": "https://placehold.co/300x300?text=Smart+Thermostat"
+  },
+  {
+    "id": 38,
+    "name": "Action Camera Model-845",
+    "price": 295.01,
+    "image": "https://placehold.co/300x300?text=Action+Camera"
+  },
+  {
+    "id": 39,
+    "name": "Wireless Charger Model-192",
+    "price": 36.22,
+    "image": "https://placehold.co/300x300?text=Wireless+Charger"
+  },
+  {
+    "id": 40,
+    "name": "Photo Printer Model-763",
+    "price": 159.11,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 41,
+    "name": "Wireless Router Model-271",
+    "price": 173.08,
+    "image": "https://placehold.co/300x300?text=Wireless+Router"
+  },
+  {
+    "id": 42,
+    "name": "Smart Watch Model-382",
+    "price": 195.91,
+    "image": "https://placehold.co/300x300?text=Smart+Watch"
+  },
+  {
+    "id": 43,
+    "name": "Gaming Controller Model-685",
+    "price": 88.65,
+    "image": "https://placehold.co/300x300?text=Gaming+Controller"
+  },
+  {
+    "id": 44,
+    "name": "Streaming Stick Model-315",
+    "price": 48.41,
+    "image": "https://placehold.co/300x300?text=Streaming+Stick"
+  },
+  {
+    "id": 45,
+    "name": "Laptop Stand Model-489",
+    "price": 42.22,
+    "image": "https://placehold.co/300x300?text=Laptop+Stand"
+  },
+  {
+    "id": 46,
+    "name": "Gaming Controller Model-588",
+    "price": 88.89,
+    "image": "https://placehold.co/300x300?text=Gaming+Controller"
+  },
+  {
+    "id": 47,
+    "name": "Bluetooth Speaker Model-840",
+    "price": 93.4,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 48,
+    "name": "Fitness Tracker Model-511",
+    "price": 87.77,
+    "image": "https://placehold.co/300x300?text=Fitness+Tracker"
+  },
+  {
+    "id": 49,
+    "name": "HD Webcam Model-154",
+    "price": 61.19,
+    "image": "https://placehold.co/300x300?text=HD+Webcam"
+  },
+  {
+    "id": 50,
+    "name": "Gaming Mouse Model-158",
+    "price": 57.56,
+    "image": "https://placehold.co/300x300?text=Gaming+Mouse"
+  },
+  {
+    "id": 51,
+    "name": "VR Headset Model-520",
+    "price": 391.05,
+    "image": "https://placehold.co/300x300?text=VR+Headset"
+  },
+  {
+    "id": 52,
+    "name": "Wireless Router Model-888",
+    "price": 166.55,
+    "image": "https://placehold.co/300x300?text=Wireless+Router"
+  },
+  {
+    "id": 53,
+    "name": "Gaming Mouse Model-787",
+    "price": 35.0,
+    "image": "https://placehold.co/300x300?text=Gaming+Mouse"
+  },
+  {
+    "id": 54,
+    "name": "Laptop Stand Model-670",
+    "price": 27.54,
+    "image": "https://placehold.co/300x300?text=Laptop+Stand"
+  },
+  {
+    "id": 55,
+    "name": "VR Headset Model-292",
+    "price": 477.19,
+    "image": "https://placehold.co/300x300?text=VR+Headset"
+  },
+  {
+    "id": 56,
+    "name": "Power Bank Model-998",
+    "price": 22.09,
+    "image": "https://placehold.co/300x300?text=Power+Bank"
+  },
+  {
+    "id": 57,
+    "name": "Smartphone Model-229",
+    "price": 393.39,
+    "image": "https://placehold.co/300x300?text=Smartphone"
+  },
+  {
+    "id": 58,
+    "name": "Smartphone Model-941",
+    "price": 579.46,
+    "image": "https://placehold.co/300x300?text=Smartphone"
+  },
+  {
+    "id": 59,
+    "name": "HD Webcam Model-522",
+    "price": 82.08,
+    "image": "https://placehold.co/300x300?text=HD+Webcam"
+  },
+  {
+    "id": 60,
+    "name": "HD Webcam Model-295",
+    "price": 92.8,
+    "image": "https://placehold.co/300x300?text=HD+Webcam"
+  },
+  {
+    "id": 61,
+    "name": "Tablet Model-999",
+    "price": 364.4,
+    "image": "https://placehold.co/300x300?text=Tablet"
+  },
+  {
+    "id": 62,
+    "name": "Laptop Stand Model-945",
+    "price": 49.73,
+    "image": "https://placehold.co/300x300?text=Laptop+Stand"
+  },
+  {
+    "id": 63,
+    "name": "HD Webcam Model-732",
+    "price": 52.13,
+    "image": "https://placehold.co/300x300?text=HD+Webcam"
+  },
+  {
+    "id": 64,
+    "name": "Wireless Charger Model-376",
+    "price": 53.99,
+    "image": "https://placehold.co/300x300?text=Wireless+Charger"
+  },
+  {
+    "id": 65,
+    "name": "Tablet Model-145",
+    "price": 333.06,
+    "image": "https://placehold.co/300x300?text=Tablet"
+  },
+  {
+    "id": 66,
+    "name": "Noise Cancelling Earbuds Model-125",
+    "price": 103.75,
+    "image": "https://placehold.co/300x300?text=Noise+Cancelling+Earbuds"
+  },
+  {
+    "id": 67,
+    "name": "Bluetooth Speaker Model-187",
+    "price": 77.84,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 68,
+    "name": "Robot Vacuum Model-339",
+    "price": 405.16,
+    "image": "https://placehold.co/300x300?text=Robot+Vacuum"
+  },
+  {
+    "id": 69,
+    "name": "Photo Printer Model-184",
+    "price": 122.55,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 70,
+    "name": "Photo Printer Model-546",
+    "price": 126.19,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 71,
+    "name": "Robot Vacuum Model-345",
+    "price": 399.1,
+    "image": "https://placehold.co/300x300?text=Robot+Vacuum"
+  },
+  {
+    "id": 72,
+    "name": "Monitor 27\" Model-391",
+    "price": 252.93,
+    "image": "https://placehold.co/300x300?text=Monitor+27\""
+  },
+  {
+    "id": 73,
+    "name": "Drone Model-675",
+    "price": 344.76,
+    "image": "https://placehold.co/300x300?text=Drone"
+  },
+  {
+    "id": 74,
+    "name": "USB-C Hub Model-597",
+    "price": 37.01,
+    "image": "https://placehold.co/300x300?text=USB-C+Hub"
+  },
+  {
+    "id": 75,
+    "name": "Smart Doorbell Model-310",
+    "price": 146.93,
+    "image": "https://placehold.co/300x300?text=Smart+Doorbell"
+  },
+  {
+    "id": 76,
+    "name": "Power Bank Model-272",
+    "price": 26.91,
+    "image": "https://placehold.co/300x300?text=Power+Bank"
+  },
+  {
+    "id": 77,
+    "name": "External Hard Drive Model-719",
+    "price": 84.67,
+    "image": "https://placehold.co/300x300?text=External+Hard+Drive"
+  },
+  {
+    "id": 78,
+    "name": "Smart Watch Model-863",
+    "price": 246.05,
+    "image": "https://placehold.co/300x300?text=Smart+Watch"
+  },
+  {
+    "id": 79,
+    "name": "Smart Doorbell Model-462",
+    "price": 108.22,
+    "image": "https://placehold.co/300x300?text=Smart+Doorbell"
+  },
+  {
+    "id": 80,
+    "name": "Laptop Stand Model-487",
+    "price": 37.08,
+    "image": "https://placehold.co/300x300?text=Laptop+Stand"
+  },
+  {
+    "id": 81,
+    "name": "Headphones Model-193",
+    "price": 67.58,
+    "image": "https://placehold.co/300x300?text=Headphones"
+  },
+  {
+    "id": 82,
+    "name": "Fitness Tracker Model-678",
+    "price": 83.93,
+    "image": "https://placehold.co/300x300?text=Fitness+Tracker"
+  },
+  {
+    "id": 83,
+    "name": "Gaming Mouse Model-410",
+    "price": 41.79,
+    "image": "https://placehold.co/300x300?text=Gaming+Mouse"
+  },
+  {
+    "id": 84,
+    "name": "Gaming Controller Model-970",
+    "price": 71.03,
+    "image": "https://placehold.co/300x300?text=Gaming+Controller"
+  },
+  {
+    "id": 85,
+    "name": "USB-C Hub Model-792",
+    "price": 47.48,
+    "image": "https://placehold.co/300x300?text=USB-C+Hub"
+  },
+  {
+    "id": 86,
+    "name": "Smart Watch Model-212",
+    "price": 213.06,
+    "image": "https://placehold.co/300x300?text=Smart+Watch"
+  },
+  {
+    "id": 87,
+    "name": "Wireless Router Model-501",
+    "price": 140.73,
+    "image": "https://placehold.co/300x300?text=Wireless+Router"
+  },
+  {
+    "id": 88,
+    "name": "Bluetooth Speaker Model-875",
+    "price": 82.78,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 89,
+    "name": "Noise Cancelling Earbuds Model-264",
+    "price": 142.92,
+    "image": "https://placehold.co/300x300?text=Noise+Cancelling+Earbuds"
+  },
+  {
+    "id": 90,
+    "name": "Smartphone Model-713",
+    "price": 512.66,
+    "image": "https://placehold.co/300x300?text=Smartphone"
+  },
+  {
+    "id": 91,
+    "name": "Wireless Charger Model-287",
+    "price": 37.22,
+    "image": "https://placehold.co/300x300?text=Wireless+Charger"
+  },
+  {
+    "id": 92,
+    "name": "Tablet Model-323",
+    "price": 213.25,
+    "image": "https://placehold.co/300x300?text=Tablet"
+  },
+  {
+    "id": 93,
+    "name": "Smartphone Model-668",
+    "price": 356.0,
+    "image": "https://placehold.co/300x300?text=Smartphone"
+  },
+  {
+    "id": 94,
+    "name": "Monitor 27\" Model-127",
+    "price": 242.26,
+    "image": "https://placehold.co/300x300?text=Monitor+27\""
+  },
+  {
+    "id": 95,
+    "name": "Bluetooth Speaker Model-968",
+    "price": 96.71,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 96,
+    "name": "Action Camera Model-770",
+    "price": 264.96,
+    "image": "https://placehold.co/300x300?text=Action+Camera"
+  },
+  {
+    "id": 97,
+    "name": "Smart Doorbell Model-120",
+    "price": 104.94,
+    "image": "https://placehold.co/300x300?text=Smart+Doorbell"
+  },
+  {
+    "id": 98,
+    "name": "Monitor 27\" Model-908",
+    "price": 249.11,
+    "image": "https://placehold.co/300x300?text=Monitor+27\""
+  },
+  {
+    "id": 99,
+    "name": "Smart Light Bulb Model-792",
+    "price": 23.71,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 100,
+    "name": "External Hard Drive Model-692",
+    "price": 106.94,
+    "image": "https://placehold.co/300x300?text=External+Hard+Drive"
+  },
+  {
+    "id": 101,
+    "name": "Mechanical Keyboard Model-932",
+    "price": 106.67,
+    "image": "https://placehold.co/300x300?text=Mechanical+Keyboard"
+  },
+  {
+    "id": 102,
+    "name": "Action Camera Model-500",
+    "price": 254.82,
+    "image": "https://placehold.co/300x300?text=Action+Camera"
+  },
+  {
+    "id": 103,
+    "name": "Smart Light Bulb Model-219",
+    "price": 18.18,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 104,
+    "name": "Portable Projector Model-315",
+    "price": 357.19,
+    "image": "https://placehold.co/300x300?text=Portable+Projector"
+  },
+  {
+    "id": 105,
+    "name": "Tablet Model-799",
+    "price": 352.42,
+    "image": "https://placehold.co/300x300?text=Tablet"
+  },
+  {
+    "id": 106,
+    "name": "Wireless Router Model-557",
+    "price": 137.8,
+    "image": "https://placehold.co/300x300?text=Wireless+Router"
+  },
+  {
+    "id": 107,
+    "name": "External Hard Drive Model-672",
+    "price": 121.31,
+    "image": "https://placehold.co/300x300?text=External+Hard+Drive"
+  },
+  {
+    "id": 108,
+    "name": "Bluetooth Speaker Model-347",
+    "price": 85.1,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 109,
+    "name": "Streaming Stick Model-356",
+    "price": 47.08,
+    "image": "https://placehold.co/300x300?text=Streaming+Stick"
+  },
+  {
+    "id": 110,
+    "name": "Smartphone Model-398",
+    "price": 704.43,
+    "image": "https://placehold.co/300x300?text=Smartphone"
+  },
+  {
+    "id": 111,
+    "name": "Gaming Mouse Model-417",
+    "price": 77.04,
+    "image": "https://placehold.co/300x300?text=Gaming+Mouse"
+  },
+  {
+    "id": 112,
+    "name": "HD Webcam Model-785",
+    "price": 96.18,
+    "image": "https://placehold.co/300x300?text=HD+Webcam"
+  },
+  {
+    "id": 113,
+    "name": "Smart Thermostat Model-700",
+    "price": 238.2,
+    "image": "https://placehold.co/300x300?text=Smart+Thermostat"
+  },
+  {
+    "id": 114,
+    "name": "Bluetooth Speaker Model-236",
+    "price": 82.3,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 115,
+    "name": "Fitness Tracker Model-680",
+    "price": 95.28,
+    "image": "https://placehold.co/300x300?text=Fitness+Tracker"
+  },
+  {
+    "id": 116,
+    "name": "Photo Printer Model-944",
+    "price": 169.3,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 117,
+    "name": "Portable SSD Model-928",
+    "price": 223.1,
+    "image": "https://placehold.co/300x300?text=Portable+SSD"
+  },
+  {
+    "id": 118,
+    "name": "VR Headset Model-596",
+    "price": 372.65,
+    "image": "https://placehold.co/300x300?text=VR+Headset"
+  },
+  {
+    "id": 119,
+    "name": "VR Headset Model-673",
+    "price": 453.97,
+    "image": "https://placehold.co/300x300?text=VR+Headset"
+  },
+  {
+    "id": 120,
+    "name": "Smart Light Bulb Model-240",
+    "price": 19.53,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 121,
+    "name": "Fitness Tracker Model-630",
+    "price": 76.76,
+    "image": "https://placehold.co/300x300?text=Fitness+Tracker"
+  },
+  {
+    "id": 122,
+    "name": "HD Webcam Model-764",
+    "price": 53.23,
+    "image": "https://placehold.co/300x300?text=HD+Webcam"
+  },
+  {
+    "id": 123,
+    "name": "VR Headset Model-181",
+    "price": 423.8,
+    "image": "https://placehold.co/300x300?text=VR+Headset"
+  },
+  {
+    "id": 124,
+    "name": "Laptop Stand Model-141",
+    "price": 26.23,
+    "image": "https://placehold.co/300x300?text=Laptop+Stand"
+  },
+  {
+    "id": 125,
+    "name": "Photo Printer Model-365",
+    "price": 146.34,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 126,
+    "name": "Smart Doorbell Model-794",
+    "price": 102.49,
+    "image": "https://placehold.co/300x300?text=Smart+Doorbell"
+  },
+  {
+    "id": 127,
+    "name": "Robot Vacuum Model-602",
+    "price": 271.99,
+    "image": "https://placehold.co/300x300?text=Robot+Vacuum"
+  },
+  {
+    "id": 128,
+    "name": "USB-C Hub Model-260",
+    "price": 39.7,
+    "image": "https://placehold.co/300x300?text=USB-C+Hub"
+  },
+  {
+    "id": 129,
+    "name": "Streaming Stick Model-747",
+    "price": 59.85,
+    "image": "https://placehold.co/300x300?text=Streaming+Stick"
+  },
+  {
+    "id": 130,
+    "name": "Robot Vacuum Model-321",
+    "price": 405.06,
+    "image": "https://placehold.co/300x300?text=Robot+Vacuum"
+  },
+  {
+    "id": 131,
+    "name": "Bluetooth Speaker Model-749",
+    "price": 101.86,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 132,
+    "name": "Gaming Mouse Model-932",
+    "price": 40.89,
+    "image": "https://placehold.co/300x300?text=Gaming+Mouse"
+  },
+  {
+    "id": 133,
+    "name": "Headphones Model-554",
+    "price": 109.92,
+    "image": "https://placehold.co/300x300?text=Headphones"
+  },
+  {
+    "id": 134,
+    "name": "Portable Projector Model-540",
+    "price": 301.08,
+    "image": "https://placehold.co/300x300?text=Portable+Projector"
+  },
+  {
+    "id": 135,
+    "name": "USB-C Hub Model-184",
+    "price": 48.42,
+    "image": "https://placehold.co/300x300?text=USB-C+Hub"
+  },
+  {
+    "id": 136,
+    "name": "Smart Light Bulb Model-153",
+    "price": 26.92,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 137,
+    "name": "Smart Doorbell Model-375",
+    "price": 115.9,
+    "image": "https://placehold.co/300x300?text=Smart+Doorbell"
+  },
+  {
+    "id": 138,
+    "name": "Drone Model-585",
+    "price": 323.69,
+    "image": "https://placehold.co/300x300?text=Drone"
+  },
+  {
+    "id": 139,
+    "name": "Power Bank Model-474",
+    "price": 23.07,
+    "image": "https://placehold.co/300x300?text=Power+Bank"
+  },
+  {
+    "id": 140,
+    "name": "Wireless Charger Model-786",
+    "price": 66.54,
+    "image": "https://placehold.co/300x300?text=Wireless+Charger"
+  },
+  {
+    "id": 141,
+    "name": "Smart Light Bulb Model-537",
+    "price": 18.37,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 142,
+    "name": "USB-C Hub Model-465",
+    "price": 31.8,
+    "image": "https://placehold.co/300x300?text=USB-C+Hub"
+  },
+  {
+    "id": 143,
+    "name": "Fitness Tracker Model-138",
+    "price": 73.72,
+    "image": "https://placehold.co/300x300?text=Fitness+Tracker"
+  },
+  {
+    "id": 144,
+    "name": "Gaming Controller Model-408",
+    "price": 73.23,
+    "image": "https://placehold.co/300x300?text=Gaming+Controller"
+  },
+  {
+    "id": 145,
+    "name": "Drone Model-756",
+    "price": 359.12,
+    "image": "https://placehold.co/300x300?text=Drone"
+  },
+  {
+    "id": 146,
+    "name": "Gaming Controller Model-566",
+    "price": 56.63,
+    "image": "https://placehold.co/300x300?text=Gaming+Controller"
+  },
+  {
+    "id": 147,
+    "name": "Tablet Model-144",
+    "price": 286.7,
+    "image": "https://placehold.co/300x300?text=Tablet"
+  },
+  {
+    "id": 148,
+    "name": "Wireless Charger Model-477",
+    "price": 64.6,
+    "image": "https://placehold.co/300x300?text=Wireless+Charger"
+  },
+  {
+    "id": 149,
+    "name": "Smartphone Model-138",
+    "price": 596.76,
+    "image": "https://placehold.co/300x300?text=Smartphone"
+  },
+  {
+    "id": 150,
+    "name": "Smart Light Bulb Model-598",
+    "price": 23.8,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 151,
+    "name": "Portable SSD Model-555",
+    "price": 242.18,
+    "image": "https://placehold.co/300x300?text=Portable+SSD"
+  },
+  {
+    "id": 152,
+    "name": "Photo Printer Model-599",
+    "price": 171.16,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 153,
+    "name": "Smartphone Model-596",
+    "price": 742.28,
+    "image": "https://placehold.co/300x300?text=Smartphone"
+  },
+  {
+    "id": 154,
+    "name": "Smart Light Bulb Model-111",
+    "price": 23.56,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 155,
+    "name": "External Hard Drive Model-145",
+    "price": 90.74,
+    "image": "https://placehold.co/300x300?text=External+Hard+Drive"
+  },
+  {
+    "id": 156,
+    "name": "Bluetooth Speaker Model-416",
+    "price": 115.11,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 157,
+    "name": "Smart Thermostat Model-958",
+    "price": 222.89,
+    "image": "https://placehold.co/300x300?text=Smart+Thermostat"
+  },
+  {
+    "id": 158,
+    "name": "Power Bank Model-186",
+    "price": 29.46,
+    "image": "https://placehold.co/300x300?text=Power+Bank"
+  },
+  {
+    "id": 159,
+    "name": "Smart Light Bulb Model-641",
+    "price": 13.11,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 160,
+    "name": "Smart Doorbell Model-687",
+    "price": 109.21,
+    "image": "https://placehold.co/300x300?text=Smart+Doorbell"
+  },
+  {
+    "id": 161,
+    "name": "Smart Light Bulb Model-524",
+    "price": 15.8,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 162,
+    "name": "Photo Printer Model-203",
+    "price": 153.3,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 163,
+    "name": "Streaming Stick Model-680",
+    "price": 33.79,
+    "image": "https://placehold.co/300x300?text=Streaming+Stick"
+  },
+  {
+    "id": 164,
+    "name": "Streaming Stick Model-495",
+    "price": 54.04,
+    "image": "https://placehold.co/300x300?text=Streaming+Stick"
+  },
+  {
+    "id": 165,
+    "name": "Power Bank Model-446",
+    "price": 33.51,
+    "image": "https://placehold.co/300x300?text=Power+Bank"
+  },
+  {
+    "id": 166,
+    "name": "External Hard Drive Model-438",
+    "price": 80.73,
+    "image": "https://placehold.co/300x300?text=External+Hard+Drive"
+  },
+  {
+    "id": 167,
+    "name": "Smart Light Bulb Model-384",
+    "price": 13.88,
+    "image": "https://placehold.co/300x300?text=Smart+Light+Bulb"
+  },
+  {
+    "id": 168,
+    "name": "Smart Doorbell Model-709",
+    "price": 145.52,
+    "image": "https://placehold.co/300x300?text=Smart+Doorbell"
+  },
+  {
+    "id": 169,
+    "name": "USB-C Hub Model-260",
+    "price": 34.45,
+    "image": "https://placehold.co/300x300?text=USB-C+Hub"
+  },
+  {
+    "id": 170,
+    "name": "Smart Thermostat Model-192",
+    "price": 214.7,
+    "image": "https://placehold.co/300x300?text=Smart+Thermostat"
+  },
+  {
+    "id": 171,
+    "name": "Headphones Model-564",
+    "price": 85.43,
+    "image": "https://placehold.co/300x300?text=Headphones"
+  },
+  {
+    "id": 172,
+    "name": "External Hard Drive Model-167",
+    "price": 95.56,
+    "image": "https://placehold.co/300x300?text=External+Hard+Drive"
+  },
+  {
+    "id": 173,
+    "name": "Bluetooth Speaker Model-872",
+    "price": 67.36,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 174,
+    "name": "Portable Projector Model-310",
+    "price": 283.81,
+    "image": "https://placehold.co/300x300?text=Portable+Projector"
+  },
+  {
+    "id": 175,
+    "name": "Tablet Model-457",
+    "price": 310.5,
+    "image": "https://placehold.co/300x300?text=Tablet"
+  },
+  {
+    "id": 176,
+    "name": "Noise Cancelling Earbuds Model-154",
+    "price": 121.12,
+    "image": "https://placehold.co/300x300?text=Noise+Cancelling+Earbuds"
+  },
+  {
+    "id": 177,
+    "name": "Headphones Model-543",
+    "price": 69.82,
+    "image": "https://placehold.co/300x300?text=Headphones"
+  },
+  {
+    "id": 178,
+    "name": "Portable Projector Model-703",
+    "price": 291.85,
+    "image": "https://placehold.co/300x300?text=Portable+Projector"
+  },
+  {
+    "id": 179,
+    "name": "Portable SSD Model-515",
+    "price": 209.65,
+    "image": "https://placehold.co/300x300?text=Portable+SSD"
+  },
+  {
+    "id": 180,
+    "name": "Streaming Stick Model-909",
+    "price": 35.49,
+    "image": "https://placehold.co/300x300?text=Streaming+Stick"
+  },
+  {
+    "id": 181,
+    "name": "Bluetooth Speaker Model-133",
+    "price": 116.56,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 182,
+    "name": "Bluetooth Speaker Model-342",
+    "price": 80.18,
+    "image": "https://placehold.co/300x300?text=Bluetooth+Speaker"
+  },
+  {
+    "id": 183,
+    "name": "Power Bank Model-122",
+    "price": 30.6,
+    "image": "https://placehold.co/300x300?text=Power+Bank"
+  },
+  {
+    "id": 184,
+    "name": "Monitor 27\" Model-486",
+    "price": 245.42,
+    "image": "https://placehold.co/300x300?text=Monitor+27\""
+  },
+  {
+    "id": 185,
+    "name": "Power Bank Model-223",
+    "price": 35.52,
+    "image": "https://placehold.co/300x300?text=Power+Bank"
+  },
+  {
+    "id": 186,
+    "name": "Headphones Model-325",
+    "price": 88.57,
+    "image": "https://placehold.co/300x300?text=Headphones"
+  },
+  {
+    "id": 187,
+    "name": "Noise Cancelling Earbuds Model-339",
+    "price": 87.92,
+    "image": "https://placehold.co/300x300?text=Noise+Cancelling+Earbuds"
+  },
+  {
+    "id": 188,
+    "name": "Portable SSD Model-281",
+    "price": 129.8,
+    "image": "https://placehold.co/300x300?text=Portable+SSD"
+  },
+  {
+    "id": 189,
+    "name": "Headphones Model-399",
+    "price": 71.58,
+    "image": "https://placehold.co/300x300?text=Headphones"
+  },
+  {
+    "id": 190,
+    "name": "Smartphone Model-575",
+    "price": 473.52,
+    "image": "https://placehold.co/300x300?text=Smartphone"
+  },
+  {
+    "id": 191,
+    "name": "Fitness Tracker Model-440",
+    "price": 78.83,
+    "image": "https://placehold.co/300x300?text=Fitness+Tracker"
+  },
+  {
+    "id": 192,
+    "name": "Wireless Charger Model-747",
+    "price": 62.58,
+    "image": "https://placehold.co/300x300?text=Wireless+Charger"
+  },
+  {
+    "id": 193,
+    "name": "Portable Projector Model-137",
+    "price": 296.31,
+    "image": "https://placehold.co/300x300?text=Portable+Projector"
+  },
+  {
+    "id": 194,
+    "name": "HD Webcam Model-103",
+    "price": 54.26,
+    "image": "https://placehold.co/300x300?text=HD+Webcam"
+  },
+  {
+    "id": 195,
+    "name": "Graphics Tablet Model-612",
+    "price": 176.45,
+    "image": "https://placehold.co/300x300?text=Graphics+Tablet"
+  },
+  {
+    "id": 196,
+    "name": "Photo Printer Model-954",
+    "price": 165.16,
+    "image": "https://placehold.co/300x300?text=Photo+Printer"
+  },
+  {
+    "id": 197,
+    "name": "Fitness Tracker Model-119",
+    "price": 62.3,
+    "image": "https://placehold.co/300x300?text=Fitness+Tracker"
+  },
+  {
+    "id": 198,
+    "name": "VR Headset Model-588",
+    "price": 394.94,
+    "image": "https://placehold.co/300x300?text=VR+Headset"
+  },
+  {
+    "id": 199,
+    "name": "Wireless Charger Model-371",
+    "price": 66.97,
+    "image": "https://placehold.co/300x300?text=Wireless+Charger"
+  },
+  {
+    "id": 200,
+    "name": "HD Webcam Model-348",
+    "price": 90.04,
+    "image": "https://placehold.co/300x300?text=HD+Webcam"
+  }
+]
